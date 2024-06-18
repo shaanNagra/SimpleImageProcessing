@@ -1,2 +1,2 @@
 # SimpleImageProcessing
-Image processing functions written in Java
+Image processing functions for "tradional" computer vision techniques, written in Java.
